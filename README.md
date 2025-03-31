@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides a command-line interface (CLI) tool to analyze and extract meaningful insights from documents. It leverages **Cohere's AI models** for **document embedding, retrieval-augmented generation (RAG), and summarization**. The tool is particularly useful for understanding PDF research papers by extracting key sections, summarizing content, and answering user queries.
+This project provides a Streamlit based UI to analyze and extract meaningful insights from documents. It leverages **Cohere's AI models** for **document embedding, retrieval-augmented generation (RAG), and summarization**. The tool is particularly useful for understanding PDF research papers by extracting key sections, summarizing content, and answering user queries.
 
 ## Features
 
